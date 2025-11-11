@@ -158,8 +158,8 @@ Analisis Perubahan method='get' (Pendaftaran)
 
 IV. Kesimpulan
 - Form dan PHP adalah fondasi dalam Pemrograman Web Dinamis.Form (HTML) mengumpulkan input, dan script PHP bertindak sebagai backend untuk memproses input tersebut.
-  
-- Penggunaan $_POST[] dan $_GET[] harus selaras dengan atribut method yang digunakan pada tag <form>.
+
+- Penggunaan $_POST[] dan $_GET[] harus selaras dengan atribut method yang digunakan pada tag form.
 
 - Metode POST adalah pilihan standar dan paling aman untuk pengiriman form yang memuat data sensitif, banyak, atau yang bertujuan untuk memodifikasi data di server.
 
